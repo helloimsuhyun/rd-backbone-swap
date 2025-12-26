@@ -1,19 +1,15 @@
-## 🔩 Backbone study project
+# 🔩 RD-ConvNeXt
 
-This repo is a simple playground for basic CNN practice and learning modern backbone models:
+Reverse Distillation based **Anomaly Detection** with a **ConvNeXt backbone**.
+This project replaces the RD backbone from ResNet with ConvNeXt.
 
-- **CNN fundamentals**
-- **ResNet**
-- **ConvNeXt**
+---
 
-Nothing fancy — just clean, minimal code to understand how these architectures are built and trained.
+## Demo
 
+<p align="center">
+  <img src="src/ad_vis_example.png" width="850"/>
+</p>
 
-## 🚧 Project Branch
+---
 
-The real project isn’t here.
-
-All actual development lives in the **`project` branch**.
-
-```bash
-git checkout project
