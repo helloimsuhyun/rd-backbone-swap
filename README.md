@@ -9,6 +9,13 @@ backbone을 기존 **ResNet**에서 **ConvNeXt**로 교체하여 구현한 이�
 
 PyTorch 기반으로 구현했으며, anomaly map 시각화 결과를 포함합니다.
 
+<br/>
+
+<img src="https://img.shields.io/badge/Anomaly%20Detection-Reverse%20Distillation-blue">
+<img src="https://img.shields.io/badge/Backbone-ConvNeXt-purple">
+<img src="https://img.shields.io/badge/Framework-PyTorch-orange">
+<img src="https://img.shields.io/badge/Visualization-Anomaly%20Map-green">
+
 </div>
 
 ---
